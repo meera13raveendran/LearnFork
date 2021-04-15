@@ -16,6 +16,7 @@
 		14BA59C526207DE8004A6140 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14BA59C326207DE8004A6140 /* LaunchScreen.storyboard */; };
 		14BA59D026207DE8004A6140 /* LearnForkXcodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14BA59CF26207DE8004A6140 /* LearnForkXcodeTests.swift */; };
 		14BA59DB26207DE8004A6140 /* LearnForkXcodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14BA59DA26207DE8004A6140 /* LearnForkXcodeUITests.swift */; };
+		14BA59F72627F0CA004A6140 /* TestFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14BA59F62627F0CA004A6140 /* TestFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		14BA59D626207DE8004A6140 /* LearnForkXcodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LearnForkXcodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		14BA59DA26207DE8004A6140 /* LearnForkXcodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnForkXcodeUITests.swift; sourceTree = "<group>"; };
 		14BA59DC26207DE8004A6140 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		14BA59F62627F0CA004A6140 /* TestFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		14BA59A926207DE3004A6140 = {
 			isa = PBXGroup;
 			children = (
+				14BA59F62627F0CA004A6140 /* TestFile.swift */,
 				14BA59B426207DE3004A6140 /* LearnForkXcode */,
 				14BA59CE26207DE8004A6140 /* LearnForkXcodeTests */,
 				14BA59D926207DE8004A6140 /* LearnForkXcodeUITests */,
@@ -264,6 +267,7 @@
 				14BA59BA26207DE3004A6140 /* ViewController.swift in Sources */,
 				14BA59B626207DE3004A6140 /* AppDelegate.swift in Sources */,
 				14BA59C026207DE3004A6140 /* LearnForkXcode.xcdatamodeld in Sources */,
+				14BA59F72627F0CA004A6140 /* TestFile.swift in Sources */,
 				14BA59B826207DE3004A6140 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
